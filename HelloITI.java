@@ -1,8 +1,15 @@
 public class HelloITI{
 
 	public static void main (String [] args){
-		System.out.println("Hello ITI!");
-		System.out.println("Hello Git!");
+		printHelloITI();
+		printHelloGit();
 	}
 
+	static void printHelloITI(){
+		System.out.println("Hello ITI!");
+	}
+
+	static void printHelloGit(){
+		System.out.println("Hello Git!");
+	}
 }
