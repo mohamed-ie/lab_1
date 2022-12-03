@@ -17,4 +17,9 @@ public class HelloITI{
 	static void printHelloGitLab2(){
 	System.out.println("Hello Git lab4!");
 	}
+
+
+	static void printHelloGitLab4(){
+	System.out.println("Hello Git lab4!");
+	}
 }
